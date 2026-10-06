@@ -2,11 +2,11 @@
 import random
 
 messages = [
-    "A tiny spark can become a wildfire.",
-    "The best plan is the one you actually start.",
-    "Lucky numbers are just patterns with confidence.",
-    "Even a quiet day can hide a great idea.",
-    "Random is just order waiting to be noticed."
+    "weathering with you",
+    "joker",
+    "dr stone",
+    "three days of happiness",
+    "your name"
 ]
 
 print(random.choice(messages))
